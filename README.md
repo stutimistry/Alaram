@@ -12,5 +12,5 @@ A fully functional alarm clock application built using HTML, CSS, and JavaScript
 2. View the current time displayed at the top of the interface.  
 3. Use the input fields to set an alarm (select hour, minute, and AM/PM).  
 4. Click the "Set Alarm" button to add the alarm.  
-5. When the alarm time is reached, an alert sound will play.  
+5. When the alarm time is reached, an alert sound will play.   
 6. To delete an alarm, click the "Delete" button next to it.  
